@@ -31,3 +31,7 @@ desktop.ini
 # Vim
 .*.swp
 .*.swo
+
+# Obsidian workspace files
+.obsidian/
+.obsidian/*
